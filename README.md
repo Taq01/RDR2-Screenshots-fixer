@@ -1,4 +1,4 @@
-# Batch script to fix Dead Redemption 2 Photo Mode files
+# Batch script to fix Red Dead Redemption 2 Photo Mode files
 
 ## How to Use:
 
@@ -7,3 +7,8 @@
 3.  Open Command Prompt (CMD).
 4.  Navigate to the folder where `fix_images.bat` is located using the `cd` command (for example, `cd C:\path\to\folder`).
 5.  Type `fix_images.bat` and press Enter.
+
+##
+RDR2
+photo mode 
+screenshot
